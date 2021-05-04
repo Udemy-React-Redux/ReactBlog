@@ -1,3 +1,8 @@
+# Blog
+<a href="https://reactblogs.netlify.app">Live version</a> \
+Simple application that displays blog components. \
+Avatars no longer shows up as uifaces.com hs been canceled. \
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
